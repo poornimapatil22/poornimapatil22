@@ -1,4 +1,4 @@
-  #Hey 👋! ** I'm Poornima Patil**
+  Hey 👋!  I'm Poornima Patil
   ---
   Passionate Coder 
   ---
