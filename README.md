@@ -1,5 +1,7 @@
   Hey 👋!  I'm Poornima Patil
+  ---
   Passionate Coder😊
+  ---
   **👩‍💻 Java Full Stack Developer** 
   
   ---
